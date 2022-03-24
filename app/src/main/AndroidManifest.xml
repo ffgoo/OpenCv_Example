@@ -20,7 +20,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.OpenCv_Example">
         <activity
-            android:name=".MainActivity"
+            android:name=".Main2"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
